@@ -3,7 +3,7 @@
 A robust, web-based tool designed to generate high-entropy, secure passwords. This project features a modern, "charming" Dark Mode UI with neon accents, providing a smooth user experience while ensuring cryptographic strength.
 
 ![App Screenshot]
-Screenshot%202025-12-08%20223933.png
+https://github.com/rajeevsheoran/Password-Generator/blob/main/Screenshot%202025-12-08%20223933.png
 ## 🚀 Live Demo
 https://github.com/rajeevsheoran/Password-Generator.git
 

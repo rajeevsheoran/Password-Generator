@@ -5,7 +5,7 @@ A robust, web-based tool designed to generate high-entropy, secure passwords. Th
 ![App Screenshot](./screenshot.png)
 ![alt text](image.png)
 ## 🚀 Live Demo
-[View Live Demo]https://github.com/rajeevsheoran/Password-Generator.git
+https://github.com/rajeevsheoran/Password-Generator.git
 
 ## 🛠️ Features
 
@@ -33,7 +33,7 @@ A robust, web-based tool designed to generate high-entropy, secure passwords. Th
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/password-generator.git](https://github.com/your-username/password-generator.git)
+    git clone https://github.com/rajeevsheoran/Password-Generator.git
     ```
 2.  Navigate to the project directory:
     ```bash

@@ -5,7 +5,7 @@ A robust, web-based tool designed to generate high-entropy, secure passwords. Th
 ![App Screenshot](./screenshot.png)
 ![alt text](image.png)
 ## 🚀 Live Demo
-[View Live Demo](https://your-username.github.io/your-repo-name)
+[View Live Demo]https://github.com/rajeevsheoran/Password-Generator.git
 
 ## 🛠️ Features
 
@@ -48,6 +48,4 @@ A robust, web-based tool designed to generate high-entropy, secure passwords. Th
 * **Algorithm Logic:** Implementing the logic to ensure at least one character of a selected type appears in the final output.
 * **Clipboard API:** How to write text to the system clipboard using `navigator.clipboard.writeText`.
 
-
----
 Made with ❤️ by Rajeev
